@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @Sunbeam208
-- 👀 I’m interested in becoming a data scientist 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Sunbeam208/Sunbeam208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m @Sunbeam208
+I want to become a data scientist.
+My education is in mathematical sciences with an emphasis in statistics (M.S. and B.S).
+One of my favorite shows is CBS's Survivor.
